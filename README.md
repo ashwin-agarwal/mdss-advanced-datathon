@@ -1,4 +1,4 @@
-#Australian Stores Sales Demand Forecasting (Advanced) competition
+# Australian Stores Sales Demand Forecasting (Advanced) competition
 Competition Winner and Winner of the best code for the Australian Stores Sales Demand Forecasting (Advanced) competition organised by Monash Data Science Society - https://www.kaggle.com/c/datathon-advanced-level
 
 ## Participants
